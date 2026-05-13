@@ -48,4 +48,4 @@ Data visualization using Matplotlib, Seaborn, and Folium to analyze automobile s
 
 ---
 
-**Part of the full IBM Data Analyst Professional Certificate** (11-
+**Part of the full IBM Data Analyst Professional Course Series
